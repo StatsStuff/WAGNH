@@ -1,0 +1,211 @@
+,player_id,season,competition,club,appearances,goals,assists,yellow,secondyellow,red,minutes,uyl_team,uyl_name,uyl_wins
+0,331726,20/21,Champions League,Chelsea FC,5,1,2,0,0,0,231,Chelsea FC,Tammy Abraham,2
+1,331726,19/20,Champions League,Chelsea FC,8,3,1,0,0,0,568,Chelsea FC,Tammy Abraham,2
+2,331726,19/20,UEFA Super Cup,Chelsea FC,1,0,1,0,0,0,46,Chelsea FC,Tammy Abraham,2
+3,236496,17/18,Europa League,Vitesse Arnhem,3,0,0,0,0,0,65,Chelsea FC,Charlie Colkett,2
+4,316551,18/19,Europa League Qualifying,Vitesse Arnhem,4,0,1,0,0,1,265,Chelsea FC,Jake Clarke-Salter,2
+5,236490,19/20,Europa League Qualifying,Torino FC,3,0,0,0,0,0,115,Chelsea FC,Ola Aina,2
+6,303254,20/21,Europa League,AC Milan,4,0,0,0,0,0,360,Chelsea FC,Fikayo Tomori,2
+7,303254,19/20,Champions League,Chelsea FC,4,0,1,1,0,0,360,Chelsea FC,Fikayo Tomori,2
+8,303254,19/20,UEFA Super Cup,Chelsea FC,1,0,0,0,0,0,35,Chelsea FC,Fikayo Tomori,2
+9,337800,19/20,Champions League,Tottenham Hotspur,2,0,0,0,0,0,74,SL Benfica,Gedson Fernandes,0
+10,337800,19/20,Champions League,SL Benfica,2,0,0,1,0,0,135,SL Benfica,Gedson Fernandes,0
+11,337800,18/19,Europa League,SL Benfica,6,0,1,1,0,0,428,SL Benfica,Gedson Fernandes,0
+12,337800,18/19,Champions League,SL Benfica,6,1,1,0,0,0,465,SL Benfica,Gedson Fernandes,0
+13,337800,18/19,Champions League Qualifying,SL Benfica,4,1,1,1,0,0,360,SL Benfica,Gedson Fernandes,0
+14,258889,17/18,Champions League,Liverpool FC,3,0,0,1,0,0,36,Chelsea FC,Dominic Solanke,1
+15,258889,17/18,Champions League Qualifying,Liverpool FC,1,0,0,0,0,0,6,Chelsea FC,Dominic Solanke,1
+16,258889,14/15,Champions League,Chelsea FC,1,0,0,0,0,0,17,Chelsea FC,Dominic Solanke,1
+17,505653,19/20,Europa League,FC Porto,3,0,0,0,0,0,34,FC Porto,Fábio Silva,1
+18,290336,19/20,Europa League,Vitória Guimarães SC,6,1,1,0,0,0,224,SL Benfica,Rochinha,0
+19,290336,19/20,Europa League Qualifying,Vitória Guimarães SC,6,2,4,0,0,0,475,SL Benfica,Rochinha,0
+20,392768,20/21,Champions League,Chelsea FC,7,2,0,0,0,0,338,Chelsea FC,Callum Hudson-Odoi,0
+21,392768,19/20,Champions League,Chelsea FC,5,0,1,0,0,0,261,Chelsea FC,Callum Hudson-Odoi,0
+22,392768,18/19,Europa League,Chelsea FC,9,4,2,0,0,0,416,Chelsea FC,Callum Hudson-Odoi,0
+23,365172,20/21,Europa League,Red Bull Salzburg,2,0,1,1,0,0,180,Red Bull Salzburg,Patson Daka,1
+24,365172,20/21,Champions League,Red Bull Salzburg,4,0,1,0,0,0,206,Red Bull Salzburg,Patson Daka,1
+25,365172,20/21,Champions League Qualifying,Red Bull Salzburg,2,2,1,0,0,0,180,Red Bull Salzburg,Patson Daka,1
+26,365172,19/20,Europa League,Red Bull Salzburg,2,0,1,0,0,0,135,Red Bull Salzburg,Patson Daka,1
+27,365172,19/20,Champions League,Red Bull Salzburg,6,1,0,0,0,0,241,Red Bull Salzburg,Patson Daka,1
+28,365172,18/19,Europa League,Red Bull Salzburg,4,2,0,0,0,0,157,Red Bull Salzburg,Patson Daka,1
+29,365172,18/19,Champions League Qualifying,Red Bull Salzburg,4,0,0,0,0,0,97,Red Bull Salzburg,Patson Daka,1
+30,365172,17/18,Europa League,Red Bull Salzburg,1,0,0,0,0,0,25,Red Bull Salzburg,Patson Daka,1
+31,365172,17/18,Europa League Qualifying,Red Bull Salzburg,1,0,0,1,0,0,34,Red Bull Salzburg,Patson Daka,1
+32,537762,20/21,Champions League,Real Madrid,2,0,0,0,0,0,30,Real Madrid,Sergio Arribas,1
+33,294780,18/19,Europa League Qualifying,FK Mariupol,4,1,0,3,0,0,390,Shakhtar Donetsk,Oleksandr Pikhalyonok,0
+34,321070,20/21,Champions League,Borussia Mönchengladbach,7,0,0,0,0,0,77,Red Bull Salzburg,Hannes Wolf,1
+35,321070,18/19,Europa League,Red Bull Salzburg,10,1,3,0,0,0,771,Red Bull Salzburg,Hannes Wolf,1
+36,321070,18/19,Champions League Qualifying,Red Bull Salzburg,4,0,1,0,0,0,357,Red Bull Salzburg,Hannes Wolf,1
+37,321070,17/18,Europa League,Red Bull Salzburg,7,0,0,1,0,0,401,Red Bull Salzburg,Hannes Wolf,1
+38,321070,17/18,Europa League Qualifying,Red Bull Salzburg,2,1,2,0,0,0,126,Red Bull Salzburg,Hannes Wolf,1
+39,321070,17/18,Champions League Qualifying,Red Bull Salzburg,4,0,0,0,0,0,126,Red Bull Salzburg,Hannes Wolf,1
+40,321070,16/17,Europa League,Red Bull Salzburg,1,0,1,0,0,0,15,Red Bull Salzburg,Hannes Wolf,1
+41,346483,20/21,Champions League,Chelsea FC,11,2,2,4,0,0,761,Chelsea FC,Mason Mount,1
+42,346483,19/20,Champions League,Chelsea FC,8,0,0,0,0,0,451,Chelsea FC,Mason Mount,1
+43,346483,19/20,UEFA Super Cup,Chelsea FC,1,0,0,0,0,0,46,Chelsea FC,Mason Mount,1
+44,346483,17/18,Europa League,Vitesse Arnhem,6,0,0,1,0,0,367,Chelsea FC,Mason Mount,1
+45,202886,18/19,Europa League,Chelsea FC,11,4,3,1,0,0,716,Chelsea FC,Ruben Loftus-Cheek,1
+46,202886,15/16,Champions League,Chelsea FC,1,0,0,1,0,0,77,Chelsea FC,Ruben Loftus-Cheek,1
+47,202886,14/15,Champions League,Chelsea FC,1,0,0,0,0,0,7,Chelsea FC,Ruben Loftus-Cheek,1
+48,462250,20/21,Champions League,Atlético Madrid,8,3,0,0,0,0,708,SL Benfica,João Félix,0
+49,462250,19/20,Champions League,Atlético Madrid,6,3,1,0,0,0,426,SL Benfica,João Félix,0
+50,462250,18/19,Europa League,SL Benfica,6,3,1,2,0,0,494,SL Benfica,João Félix,0
+51,462250,18/19,Champions League,SL Benfica,1,0,0,0,0,0,77,SL Benfica,João Félix,0
+52,462250,18/19,Champions League Qualifying,SL Benfica,2,0,0,0,0,0,15,SL Benfica,João Félix,0
+53,331511,20/21,Champions League,FC Barcelona,4,0,0,0,0,0,86,FC Barcelona,Riqui Puig,1
+54,258039,20/21,Europa League,Royal Antwerp FC,8,0,0,0,0,0,368,SL Benfica,Aurélio Buta,0
+55,258039,19/20,Europa League Qualifying,Royal Antwerp FC,3,0,0,0,1,0,283,SL Benfica,Aurélio Buta,0
+56,537602,20/21,Champions League,FC Porto,2,0,0,0,0,0,83,FC Porto,João Mário,1
+57,204103,19/20,Europa League,Wolverhampton Wanderers,10,2,0,1,0,0,628,FC Barcelona,Adama Traoré,1
+58,204103,19/20,Europa League Qualifying,Wolverhampton Wanderers,5,0,3,0,0,0,424,FC Barcelona,Adama Traoré,1
+59,204103,13/14,Champions League,FC Barcelona,1,0,0,0,0,0,8,FC Barcelona,Adama Traoré,1
+60,481623,20/21,Europa League,SL Benfica,1,0,1,1,0,0,90,SL Benfica,João Ferreira,0
+61,357162,19/20,Europa League,SL Benfica,1,0,0,1,0,0,90,SL Benfica,Florentino,0
+62,357162,19/20,Champions League,SL Benfica,2,0,0,1,0,0,180,SL Benfica,Florentino,0
+63,357162,18/19,Europa League,SL Benfica,3,0,0,0,0,0,238,SL Benfica,Florentino,0
+64,537598,20/21,Champions League,FC Porto,6,1,0,0,0,0,158,FC Porto,Fábio Vieira,1
+65,341227,18/19,Champions League,FC Barcelona,1,0,0,0,0,0,90,FC Barcelona,Juan Miranda,1
+66,204102,18/19,Europa League,Villarreal CF,1,0,0,1,0,0,90,FC Barcelona,Xavi Quintillà,1
+67,331505,20/21,Champions League,FC Barcelona,5,0,1,1,0,0,242,FC Barcelona,Óscar Mingueza,1
+68,433181,20/21,Champions League,Chelsea FC,1,0,0,0,0,0,80,Chelsea FC,Faustino Anjorin,0
+69,258015,20/21,Europa League,SL Benfica,5,1,0,1,0,0,349,SL Benfica,Diogo Gonçalves,0
+70,258015,17/18,Champions League,SL Benfica,4,0,0,1,0,0,266,SL Benfica,Diogo Gonçalves,0
+71,290391,20/21,Europa League Qualifying,Sporting CP,1,0,1,0,0,0,78,SL Benfica,Nuno Santos,0
+72,289075,20/21,Champions League,Ferencvárosi TC,5,0,1,0,0,0,391,Shakhtar Donetsk,Oleksandr Zubkov,0
+73,289075,20/21,Champions League Qualifying,Ferencvárosi TC,2,0,0,0,0,0,107,Shakhtar Donetsk,Oleksandr Zubkov,0
+74,289075,19/20,Europa League,Ferencvárosi TC,6,0,1,0,0,0,468,Shakhtar Donetsk,Oleksandr Zubkov,0
+75,289075,19/20,Europa League Qualifying,Ferencvárosi TC,2,0,2,0,0,0,180,Shakhtar Donetsk,Oleksandr Zubkov,0
+76,289075,19/20,Champions League Qualifying,Ferencvárosi TC,6,1,3,1,0,0,540,Shakhtar Donetsk,Oleksandr Zubkov,0
+77,388513,20/21,Champions League,Borussia Dortmund,7,0,0,1,0,0,455,FC Barcelona,Mateu Morey Bauzà,1
+78,264956,18/19,Europa League,RB Leipzig,6,2,0,1,0,0,422,Paris Saint-Germain,Jean-Kévin Augustin,0
+79,264956,18/19,Europa League Qualifying,RB Leipzig,5,2,2,1,0,0,330,Paris Saint-Germain,Jean-Kévin Augustin,0
+80,264956,17/18,Europa League,RB Leipzig,6,2,1,1,0,0,342,Paris Saint-Germain,Jean-Kévin Augustin,0
+81,264956,17/18,Champions League,RB Leipzig,5,1,0,1,0,0,342,Paris Saint-Germain,Jean-Kévin Augustin,0
+82,264956,15/16,Champions League,Paris Saint-Germain,1,0,0,0,0,0,5,Paris Saint-Germain,Jean-Kévin Augustin,0
+83,550550,20/21,Europa League,SL Benfica,2,0,1,0,0,0,31,SL Benfica,Gonçalo Ramos,0
+84,357156,20/21,Champions League,FC Porto,3,0,0,0,0,0,182,FC Porto,Diogo Leite,1
+85,357156,19/20,Europa League,FC Porto,1,0,0,0,0,0,6,FC Porto,Diogo Leite,1
+86,357156,18/19,Champions League,FC Porto,1,0,0,0,0,0,90,FC Porto,Diogo Leite,1
+87,258004,20/21,Champions League,Manchester City,11,0,0,1,0,0,970,SL Benfica,Rúben Dias,0
+88,258004,20/21,Champions League Qualifying,SL Benfica,1,0,0,0,0,0,90,SL Benfica,Rúben Dias,0
+89,258004,19/20,Europa League,SL Benfica,2,1,0,0,0,0,180,SL Benfica,Rúben Dias,0
+90,258004,19/20,Champions League,SL Benfica,6,0,0,1,0,0,540,SL Benfica,Rúben Dias,0
+91,258004,18/19,Europa League,SL Benfica,6,1,1,0,0,0,570,SL Benfica,Rúben Dias,0
+92,258004,18/19,Champions League,SL Benfica,5,0,0,1,1,0,405,SL Benfica,Rúben Dias,0
+93,258004,18/19,Champions League Qualifying,SL Benfica,4,0,0,1,0,0,360,SL Benfica,Rúben Dias,0
+94,258004,17/18,Champions League,SL Benfica,2,0,0,1,0,0,180,SL Benfica,Rúben Dias,0
+95,289059,20/21,Europa League,Shakhtar Donetsk,4,0,1,0,0,0,360,Shakhtar Donetsk,Mykola Matvienko,0
+96,289059,20/21,Champions League,Shakhtar Donetsk,4,0,0,0,0,0,298,Shakhtar Donetsk,Mykola Matvienko,0
+97,289059,19/20,Europa League,Shakhtar Donetsk,6,0,0,0,0,0,540,Shakhtar Donetsk,Mykola Matvienko,0
+98,289059,19/20,Champions League,Shakhtar Donetsk,6,0,0,0,0,0,536,Shakhtar Donetsk,Mykola Matvienko,0
+99,289059,18/19,Europa League,Shakhtar Donetsk,1,0,0,1,0,0,90,Shakhtar Donetsk,Mykola Matvienko,0
+100,289059,18/19,Champions League,Shakhtar Donetsk,5,0,0,1,0,0,450,Shakhtar Donetsk,Mykola Matvienko,0
+101,289059,16/17,Europa League,Shakhtar Donetsk,2,0,1,0,0,0,180,Shakhtar Donetsk,Mykola Matvienko,0
+102,203855,19/20,Europa League Qualifying,FK Mariupol,2,0,0,0,0,0,94,Shakhtar Donetsk,Igor Kyryukhantsev,0
+103,203855,18/19,Europa League Qualifying,FK Mariupol,3,0,0,0,0,0,142,Shakhtar Donetsk,Igor Kyryukhantsev,0
+104,329812,19/20,Europa League,SL Benfica,1,0,0,0,0,0,11,SL Benfica,Jota,0
+105,329812,19/20,Champions League,SL Benfica,2,0,0,1,0,0,67,SL Benfica,Jota,0
+106,329812,18/19,Europa League,SL Benfica,1,0,0,0,0,0,62,SL Benfica,Jota,0
+107,357153,20/21,Champions League,FC Porto,1,0,0,0,0,0,1,FC Porto,Diogo Costa,1
+108,423744,20/21,Champions League,Chelsea FC,2,0,0,0,0,0,95,Chelsea FC,Billy Gilmour,0
+109,256120,18/19,Europa League,Real Betis Balompié,2,0,0,0,0,0,98,FC Barcelona,Wilfrid Kaptoum,1
+110,256120,15/16,Champions League,FC Barcelona,1,0,0,0,0,0,62,FC Barcelona,Wilfrid Kaptoum,1
+111,290384,17/18,Europa League Qualifying,Legia Warszawa,2,0,0,0,0,0,44,SL Benfica,Hildeberto,0
+112,225122,19/20,Champions League,Valencia CF,3,0,0,0,0,0,198,SL Benfica,Gonçalo Guedes,0
+113,225122,18/19,Europa League,Valencia CF,8,3,1,1,0,0,506,SL Benfica,Gonçalo Guedes,0
+114,225122,18/19,Champions League,Valencia CF,4,0,0,1,0,0,317,SL Benfica,Gonçalo Guedes,0
+115,225122,16/17,Champions League,SL Benfica,6,2,1,0,0,0,422,SL Benfica,Gonçalo Guedes,0
+116,225122,15/16,Champions League,SL Benfica,7,1,0,2,0,0,495,SL Benfica,Gonçalo Guedes,0
+117,340376,20/21,Europa League,SC Braga,4,0,0,0,0,0,187,FC Barcelona,Abel Ruiz,1
+118,340376,19/20,Europa League,SC Braga,2,1,0,1,0,0,96,FC Barcelona,Abel Ruiz,1
+119,203854,18/19,Europa League Qualifying,FK Mariupol,2,0,0,1,0,0,134,Shakhtar Donetsk,Andriy Boryachuk,0
+120,203854,16/17,Europa League,Shakhtar Donetsk,3,0,1,1,0,0,156,Shakhtar Donetsk,Andriy Boryachuk,0
+121,203854,15/16,Europa League,Shakhtar Donetsk,1,0,0,0,0,0,1,Shakhtar Donetsk,Andriy Boryachuk,0
+122,197860,19/20,Europa League,Besiktas JK,6,0,0,0,0,0,432,SL Benfica,Pedro Rebocho,0
+123,416089,19/20,Champions League,SL Benfica,1,0,0,0,0,0,23,SL Benfica,David Tavares,0
+124,344381,20/21,Champions League,RB Leipzig,7,1,2,2,0,0,585,Paris Saint-Germain,Christopher Nkunku,0
+125,344381,19/20,Champions League,RB Leipzig,9,0,1,1,0,0,513,Paris Saint-Germain,Christopher Nkunku,0
+126,344381,16/17,Champions League,Paris Saint-Germain,1,0,0,0,0,0,21,Paris Saint-Germain,Christopher Nkunku,0
+127,344381,15/16,Champions League,Paris Saint-Germain,1,0,0,0,0,0,3,Paris Saint-Germain,Christopher Nkunku,0
+128,395512,20/21,Europa League,Red Bull Salzburg,2,0,0,0,0,0,76,Paris Saint-Germain,Antoine Bernede,0
+129,395512,20/21,Champions League Qualifying,Red Bull Salzburg,1,0,0,0,0,0,90,Paris Saint-Germain,Antoine Bernede,0
+130,395512,19/20,Europa League,Red Bull Salzburg,1,0,0,0,0,0,4,Paris Saint-Germain,Antoine Bernede,0
+131,395512,19/20,Champions League,Red Bull Salzburg,1,0,0,1,0,0,90,Paris Saint-Germain,Antoine Bernede,0
+132,375383,20/21,Champions League,FC Porto,3,0,0,0,0,0,66,FC Porto,Romário Baró,1
+133,375383,19/20,Europa League,FC Porto,1,0,0,0,0,0,24,FC Porto,Romário Baró,1
+134,375383,19/20,Champions League Qualifying,FC Porto,1,0,0,1,0,0,55,FC Porto,Romário Baró,1
+135,472423,20/21,Champions League,Chelsea FC,10,0,1,0,0,0,565,Chelsea FC,Reece James,0
+136,472423,19/20,Champions League,Chelsea FC,6,1,0,1,0,0,381,Chelsea FC,Reece James,0
+137,324690,20/21,Europa League,LOSC Lille,8,3,2,1,0,0,434,Paris Saint-Germain,Jonathan Ikoné,0
+138,324690,19/20,Champions League,LOSC Lille,4,1,0,1,0,0,242,Paris Saint-Germain,Jonathan Ikoné,0
+139,324690,16/17,Champions League,Paris Saint-Germain,1,0,0,0,0,0,2,Paris Saint-Germain,Jonathan Ikoné,0
+140,196948,20/21,Champions League,Chelsea FC,7,0,0,1,0,0,591,Chelsea FC,Andreas Christensen,1
+141,196948,19/20,Champions League,Chelsea FC,4,0,0,0,0,0,360,Chelsea FC,Andreas Christensen,1
+142,196948,19/20,UEFA Super Cup,Chelsea FC,1,0,0,0,0,0,85,Chelsea FC,Andreas Christensen,1
+143,196948,18/19,Europa League,Chelsea FC,15,0,0,2,0,0,1334,Chelsea FC,Andreas Christensen,1
+144,196948,17/18,Champions League,Chelsea FC,6,0,0,0,0,0,454,Chelsea FC,Andreas Christensen,1
+145,196948,16/17,Europa League,Borussia Mönchengladbach,3,2,0,0,0,0,270,Chelsea FC,Andreas Christensen,1
+146,196948,16/17,Champions League,Borussia Mönchengladbach,4,0,0,0,0,0,360,Chelsea FC,Andreas Christensen,1
+147,196948,16/17,Champions League Qualifying,Borussia Mönchengladbach,2,0,0,0,0,0,180,Chelsea FC,Andreas Christensen,1
+148,196948,15/16,Champions League,Borussia Mönchengladbach,5,0,0,0,0,0,450,Chelsea FC,Andreas Christensen,1
+149,245805,15/16,Europa League Qualifying,Vitesse Arnhem,2,0,0,1,0,0,159,Chelsea FC,Izzy Brown,1
+150,307939,19/20,Europa League,Wolfsberger AC,4,0,0,0,0,0,38,Red Bull Salzburg,Alexander Schmidt,1
+151,344152,20/21,Europa League,Celtic FC,4,2,0,0,0,0,278,Paris Saint-Germain,Odsonne Edouard,0
+152,344152,20/21,Europa League Qualifying,Celtic FC,2,1,0,0,0,0,161,Paris Saint-Germain,Odsonne Edouard,0
+153,344152,20/21,Champions League Qualifying,Celtic FC,1,1,0,0,0,0,73,Paris Saint-Germain,Odsonne Edouard,0
+154,344152,19/20,Europa League,Celtic FC,6,3,2,2,0,0,534,Paris Saint-Germain,Odsonne Edouard,0
+155,344152,19/20,Europa League Qualifying,Celtic FC,2,1,1,1,0,0,161,Paris Saint-Germain,Odsonne Edouard,0
+156,344152,19/20,Champions League Qualifying,Celtic FC,5,2,2,0,0,0,438,Paris Saint-Germain,Odsonne Edouard,0
+157,344152,18/19,Europa League,Celtic FC,8,2,0,0,0,0,552,Paris Saint-Germain,Odsonne Edouard,0
+158,344152,18/19,Champions League Qualifying,Celtic FC,5,3,1,0,0,0,393,Paris Saint-Germain,Odsonne Edouard,0
+159,344152,17/18,Europa League,Celtic FC,1,0,0,0,0,0,6,Paris Saint-Germain,Odsonne Edouard,0
+160,344152,17/18,Champions League,Celtic FC,2,0,0,0,0,0,37,Paris Saint-Germain,Odsonne Edouard,0
+161,223727,19/20,Europa League Qualifying,BK Häcken,2,0,0,1,0,0,162,FC Barcelona,Godswill Ekpolo,1
+162,223727,18/19,Europa League Qualifying,BK Häcken,1,0,0,0,0,0,9,FC Barcelona,Godswill Ekpolo,1
+163,282810,20/21,Europa League,AS Roma,9,1,1,0,0,0,563,FC Barcelona,Carles Pérez,1
+164,282810,19/20,Europa League,AS Roma,3,1,0,0,0,0,206,FC Barcelona,Carles Pérez,1
+165,282810,19/20,Champions League,FC Barcelona,1,1,0,0,0,0,85,FC Barcelona,Carles Pérez,1
+166,203842,20/21,Champions League,Shakhtar Donetsk,3,0,0,0,0,0,219,Shakhtar Donetsk,Viktor Kovalenko,0
+167,203842,19/20,Europa League,Shakhtar Donetsk,4,1,0,0,0,0,184,Shakhtar Donetsk,Viktor Kovalenko,0
+168,203842,19/20,Champions League,Shakhtar Donetsk,5,0,1,0,0,0,338,Shakhtar Donetsk,Viktor Kovalenko,0
+169,203842,18/19,Europa League,Shakhtar Donetsk,2,0,0,0,0,0,161,Shakhtar Donetsk,Viktor Kovalenko,0
+170,203842,18/19,Champions League,Shakhtar Donetsk,6,0,0,0,0,0,368,Shakhtar Donetsk,Viktor Kovalenko,0
+171,203842,17/18,Champions League,Shakhtar Donetsk,5,0,0,1,0,0,41,Shakhtar Donetsk,Viktor Kovalenko,0
+172,203842,16/17,Europa League,Shakhtar Donetsk,6,2,0,1,0,0,380,Shakhtar Donetsk,Viktor Kovalenko,0
+173,203842,16/17,Europa League Qualifying,Shakhtar Donetsk,2,1,0,0,0,0,170,Shakhtar Donetsk,Viktor Kovalenko,0
+174,203842,15/16,Europa League,Shakhtar Donetsk,8,2,2,0,0,0,712,Shakhtar Donetsk,Viktor Kovalenko,0
+175,203842,15/16,Champions League,Shakhtar Donetsk,5,0,0,0,0,0,75,Shakhtar Donetsk,Viktor Kovalenko,0
+176,203842,15/16,Champions League Qualifying,Shakhtar Donetsk,2,0,0,0,0,0,14,Shakhtar Donetsk,Viktor Kovalenko,0
+177,258911,2021,AFC Champions League,Al-Nassr FC,2,0,0,0,0,0,21,Chelsea FC,Mukhtar Ali,1
+178,258911,2020,AFC Champions League,Al-Nassr FC,8,1,0,1,0,0,407,Chelsea FC,Mukhtar Ali,1
+179,258911,17/18,Europa League,Vitesse Arnhem,1,0,0,0,0,0,12,Chelsea FC,Mukhtar Ali,1
+180,177862,17/18,Europa League,Celtic FC,2,0,1,0,0,0,36,Chelsea FC,Charly Musonda Jr.,1
+181,402008,20/21,Champions League,RB Leipzig,6,1,0,1,0,0,428,Red Bull Salzburg,Amadou Haidara,1
+182,402008,19/20,Champions League,RB Leipzig,7,0,0,3,0,0,267,Red Bull Salzburg,Amadou Haidara,1
+183,402008,18/19,Europa League,Red Bull Salzburg,4,1,1,1,0,0,360,Red Bull Salzburg,Amadou Haidara,1
+184,402008,18/19,Champions League Qualifying,Red Bull Salzburg,3,0,0,1,0,0,270,Red Bull Salzburg,Amadou Haidara,1
+185,402008,17/18,Europa League,Red Bull Salzburg,14,2,0,1,1,0,1219,Red Bull Salzburg,Amadou Haidara,1
+186,402008,17/18,Europa League Qualifying,Red Bull Salzburg,2,1,0,0,0,0,50,Red Bull Salzburg,Amadou Haidara,1
+187,402008,17/18,Champions League Qualifying,Red Bull Salzburg,2,1,0,0,0,0,48,Red Bull Salzburg,Amadou Haidara,1
+188,307924,20/21,Europa League,Red Bull Salzburg,2,1,0,0,0,0,180,Red Bull Salzburg,Mërgim Berisha,1
+189,307924,20/21,Champions League,Red Bull Salzburg,6,4,2,0,0,0,473,Red Bull Salzburg,Mërgim Berisha,1
+190,307924,20/21,Champions League Qualifying,Red Bull Salzburg,2,0,0,0,0,0,69,Red Bull Salzburg,Mërgim Berisha,1
+191,307924,19/20,Europa League,Red Bull Salzburg,1,0,0,0,0,0,14,Red Bull Salzburg,Mërgim Berisha,1
+192,342148,16/17,Champions League,SL Benfica,1,0,0,0,0,0,8,SL Benfica,Zé Gomes,0
+193,223725,20/21,Champions League,Sevilla FC,6,1,0,0,0,0,293,FC Barcelona,Munir El Haddadi,1
+194,223725,19/20,Europa League,Sevilla FC,9,5,2,1,0,0,445,FC Barcelona,Munir El Haddadi,1
+195,223725,18/19,Europa League,Sevilla FC,3,2,0,0,0,0,199,FC Barcelona,Munir El Haddadi,1
+196,223725,18/19,Champions League,FC Barcelona,2,0,0,0,0,0,65,FC Barcelona,Munir El Haddadi,1
+197,223725,15/16,Champions League,FC Barcelona,4,0,3,0,0,0,257,FC Barcelona,Munir El Haddadi,1
+198,223725,15/16,Club World Cup,FC Barcelona,1,0,1,0,0,0,90,FC Barcelona,Munir El Haddadi,1
+199,223725,14/15,Champions League,FC Barcelona,3,0,0,0,0,0,120,FC Barcelona,Munir El Haddadi,1
+200,268176,19/20,Europa League,AS Saint-Étienne,1,0,0,0,0,0,90,FC Barcelona,Sergi Palencia,1
+201,268176,18/19,Europa League,FC Girondins Bordeaux,3,0,0,1,0,0,270,FC Barcelona,Sergi Palencia,1
+202,268176,18/19,Europa League Qualifying,FC Girondins Bordeaux,1,0,0,0,0,0,90,FC Barcelona,Sergi Palencia,1
+203,197999,17/18,Europa League Qualifying,FC Dinamo Bucharest,2,0,0,1,0,0,157,SL Benfica,Filipe Nascimento,0
+204,344598,20/21,Champions League,Borussia Dortmund,2,0,0,0,0,0,19,Paris Saint-Germain,Dan-Axel Zagadou,0
+205,344598,19/20,Champions League,Borussia Dortmund,5,0,0,1,0,0,284,Paris Saint-Germain,Dan-Axel Zagadou,0
+206,344598,18/19,Champions League,Borussia Dortmund,4,0,0,1,0,0,347,Paris Saint-Germain,Dan-Axel Zagadou,0
+207,344598,17/18,Europa League,Borussia Dortmund,1,0,0,1,0,0,90,Paris Saint-Germain,Dan-Axel Zagadou,0
+208,344598,17/18,Champions League,Borussia Dortmund,2,0,0,0,0,0,88,Paris Saint-Germain,Dan-Axel Zagadou,0
+209,392772,20/21,Europa League,Tottenham Hotspur,1,0,0,0,0,0,16,Chelsea FC,Marcel Lavinier,0
